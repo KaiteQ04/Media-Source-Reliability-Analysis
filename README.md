@@ -8,7 +8,7 @@ In financial markets, news media significantly influence investor sentiment and 
 Project Overview: 
 News → Text preprocessing; 
 FinBERT sentiment scoring; 
-News–trading-day alignment; 
+News-trading day alignment; 
 Abnormal return (AR) calculation; 
 Media-level regression modeling; 
 Rolling-window prediction of time-varying influence; 
