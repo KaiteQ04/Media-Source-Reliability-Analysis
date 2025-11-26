@@ -1,0 +1,15 @@
+The NewsInfo dataset contains the following fields:
+
+NewsID: A unique identifier assigned to each news article.
+DeclareDate: The date on which the news was published or announced.
+Title: The headline or title of the news article.
+FullDeclareDate: The full timestamp of publication, including both date and time.
+Author: The author or contributor of the article.
+KeyWord: Keywords associated with the article.
+NewsSummary: A brief summary of the news content.
+NewsContent: The full text body of the article.
+NewsSourceID: An identifier for the news source.
+NewsSource: The name of the organization providing the news.
+RecommendSign: A flag indicating whether the article is recommended (if applicable).
+IsAccessory: Indicates whether the article includes additional attachments.
+FileSize: The size of the text or file associated with the article.

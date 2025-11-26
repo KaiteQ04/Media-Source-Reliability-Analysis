@@ -1,0 +1,6 @@
+The NewsContent dataset contains the following fields:
+
+NewsID: A unique identifier assigned to each news article.
+DeclareDate: The publication or announcement date of the news.
+Title: The headline or title of the news article.
+NewsContent: The full text content of the article.

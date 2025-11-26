@@ -1,0 +1,10 @@
+The News_Security dataset contains the following fields:
+
+NewsID: A unique identifier for each news article.
+DeclareDate: The publication or announcement date of the news.
+Title: The headline or title of the news article.
+Symbol: The security code associated with the company or asset.
+ShortName: The short name or abbreviated name of the security.
+SecurityTypeID: The coded identifier representing the security category.
+SecurityType: The category of the security, such as A-shares, B-shares, or Hong Kong stocks.
+FullDeclareDate: The full timestamp of the news publication, including both date and time.
