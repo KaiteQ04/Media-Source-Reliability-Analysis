@@ -13,3 +13,5 @@ Abnormal return (AR) calculation;
 Media-level regression modeling; 
 Rolling-window prediction of time-varying influence; 
 The final output is a media-level influence score (β & standardized weight ω).
+
+Full raw and processed files are too large to include. Only column descriptions and sample data are provided.
